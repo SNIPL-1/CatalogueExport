@@ -73,6 +73,7 @@ body {
 .company-info p {
   margin: 4px 0 0;
   font-size: 16px;
+  gap: 100px; 
 }
 
 .company-info a {
